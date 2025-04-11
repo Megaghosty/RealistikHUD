@@ -15,7 +15,7 @@ A custom HUD for Garry's Mod designed to enhance the gaming experience by displa
 ## Installation
 
 1. **Download** or **clone** this repository into your `garrysmod/addons` folder.
-2. Add the `custom_hud.lua` file to your `lua/autorun` folder or create an addon with this file for automatic loading.
+2. Add the `cl_realistic_hud.lua` file to your `lua/autorun` folder or create an addon with this file for automatic loading.
 3. Launch Garry's Mod and ensure the custom HUD is active.
 
 ## Customization
